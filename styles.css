@@ -166,7 +166,7 @@ button i{
 
 /* #search-input, .loading */
 
-@media screen and (max-width : 600px){
+@media screen and (max-width : 747px){
 
     body > a{
         left: 50%;
